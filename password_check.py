@@ -8,4 +8,5 @@ else:
         print("Incorrect.")
         attempt_number += 1
         print("Password attempt number: ", attempt_number)
-        user_pass == input("Please enter your password: ")
+        user_pass = input("Please enter your password: ")
+print("Correct! Password accepted.")
